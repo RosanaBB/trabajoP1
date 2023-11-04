@@ -1,2 +1,2 @@
-# trabajoP1
-Trabajos react
+# trabajo Practicos
+Trabajos Practicos de React
